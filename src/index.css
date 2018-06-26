@@ -1,5 +1,10 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+  font-family: "Muli", sans-serif;
+  background: #0b4f6c url("./assets/bg.png");
+}
+
+* {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
